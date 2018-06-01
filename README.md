@@ -1,5 +1,5 @@
 # Tales of ⌧!
-## A presentation at [!!con](http://bangbangcon.com/) 2018
+## A presentation at [!!con](http://bangbangcon.com/) 2018 - [Watch it on YouTube](https://www.youtube.com/watch?v=fADc9lHwSMc)
 
 The `script.rb` file is a basic script to illustrate how to find a character within a folder of
 font files. This script is intended for learning a discovery, and as such contains no tests or class structure.
